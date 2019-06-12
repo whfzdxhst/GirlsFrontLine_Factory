@@ -1,0 +1,195 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "start5",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "identy/start1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "identy/start2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.21666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 252.96
+            }
+          ]
+        }
+      },
+      "identy/start3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.4166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.6166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "identy/start4": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.6166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.8166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "identy/start5": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.8166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.8166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Light": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1.3333333333333333,
+      "func": "onAnimCompleted",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "start4",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "identy/start1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "identy/start2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "identy/start3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.75,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "identy/start4": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.75,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.75,
+              "value": 0
+            },
+            {
+              "frame": 0.7833333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Light": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1.3333333333333333,
+      "func": "onAnimCompleted",
+      "params": []
+    }
+  ]
+}

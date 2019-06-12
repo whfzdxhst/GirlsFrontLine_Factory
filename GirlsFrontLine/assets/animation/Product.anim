@@ -1,0 +1,105 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Product",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Product/ProductIdoll_title": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 369,
+              "curve": [
+                0.35580357142857144,
+                0.3520833333333334,
+                0.662797619047619,
+                0.6479166666666667
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": 73
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Product/Product": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -226,
+              "curve": [
+                0.2404761904761905,
+                0.9175595238095238,
+                -0.036607142857142866,
+                0.7520833333333333
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": -40
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Product/ProductList": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -266,
+              "curve": [
+                0.17951807228915664,
+                0.8647590361445783,
+                -0.06807228915662644,
+                0.9259036144578312
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": -40
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

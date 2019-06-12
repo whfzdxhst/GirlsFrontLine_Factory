@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "65d1b97d-57cb-4b7a-a836-40999f261e04",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "工厂背景 #031009": {
+      "ver": "1.0.3",
+      "uuid": "5adeb5ad-97c9-49e8-9d8e-aa0467525247",
+      "rawTextureUuid": "65d1b97d-57cb-4b7a-a836-40999f261e04",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1024,
+      "height": 1024,
+      "rawWidth": 1028,
+      "rawHeight": 1028,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
